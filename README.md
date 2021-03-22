@@ -18,3 +18,6 @@
 3. Item 3
   * Item 3a
   * Item 3b
+
+![Github logo](/images/logo.png)
+Format: ![Alt Text](url)
