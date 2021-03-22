@@ -20,6 +20,6 @@
   * Item 3b
 
 ![Github logo](/images/logo.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](https://media.nature.com/lw800/magazine-assets/d41586-020-01430-5/d41586-020-01430-5_17977552.jpg)
 
 http://github.com - automatic![Github](http://github.com)
